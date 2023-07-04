@@ -1,0 +1,8 @@
+C:/Users/brown/AppData/Local/Temp/pip-install-alldnudv/pillow-simd_97ec4622df614db39fbf454605735010/winbuild/build/lpng1640/CMakeFiles/png_genfiles.dir
+C:/Users/brown/AppData/Local/Temp/pip-install-alldnudv/pillow-simd_97ec4622df614db39fbf454605735010/winbuild/build/lpng1640/CMakeFiles/png_static.dir
+C:/Users/brown/AppData/Local/Temp/pip-install-alldnudv/pillow-simd_97ec4622df614db39fbf454605735010/winbuild/build/lpng1640/CMakeFiles/rebuild_cache.dir
+C:/Users/brown/AppData/Local/Temp/pip-install-alldnudv/pillow-simd_97ec4622df614db39fbf454605735010/winbuild/build/lpng1640/CMakeFiles/test.dir
+C:/Users/brown/AppData/Local/Temp/pip-install-alldnudv/pillow-simd_97ec4622df614db39fbf454605735010/winbuild/build/lpng1640/CMakeFiles/install/local.dir
+C:/Users/brown/AppData/Local/Temp/pip-install-alldnudv/pillow-simd_97ec4622df614db39fbf454605735010/winbuild/build/lpng1640/CMakeFiles/install.dir
+C:/Users/brown/AppData/Local/Temp/pip-install-alldnudv/pillow-simd_97ec4622df614db39fbf454605735010/winbuild/build/lpng1640/CMakeFiles/edit_cache.dir
+C:/Users/brown/AppData/Local/Temp/pip-install-alldnudv/pillow-simd_97ec4622df614db39fbf454605735010/winbuild/build/lpng1640/CMakeFiles/list_install_components.dir
